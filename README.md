@@ -1,3 +1,6 @@
+
+Hey! It's almost like a Junk Yard in here. 
+
 - 👋 Hi, I’m @sp3cni
 -  My main focus is control engineering, simulations of physical processes and dynamic programming / optimality
 -  Other interest in programming include game dev.
